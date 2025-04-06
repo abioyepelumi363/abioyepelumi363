@@ -21,14 +21,14 @@ I'm Abdul-lateef Abioye, a Cloud/DevOps Engineer passionate about automating inf
 -   Solution Architecture
 -   Infrastructure as Code (IaC)
 
-Experience Highlights:
+**Experience Highlights:**
 
 -   Huawei Technologies Co.,: Monitored OWS servers, ensured SLA adherence, and generated reports.
 -   Tools and Automation Engineer (Intern) February 2023 - May 2023 (4 months)
 
-Education:
+**Education:**
 
 -   AltSchool Africa: Diploma in Cloud Engineering (March 2025 - February 2026).
 -   Lagos State University: Bachelor's degree in Computer Science (February 2019 - 2024).
 
-Feel free to explore my repositories and connect with me!
+**Feel free to explore my repositories and connect with me!**
