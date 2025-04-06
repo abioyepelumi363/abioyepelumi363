@@ -5,13 +5,13 @@ I'm Abdul-lateef Abioye, a Cloud/DevOps Engineer passionate about automating inf
 -   🔭 I’m currently seeking an Entry-Level Cloud/DevOps Engineer position to leverage my expertise and contribute to a high-performing team in a dynamic environment
 -   🌱 I’m currently learning Cloud Engineering at AltSchool Africa
 -   👯 I’m looking to collaborate on open-source DevOps projects or technical writing initiatives.
--   💬 Ask me about AWS, Kubernetes, Terraform, CI/CD, or Python[cite: 21].
+-   💬 Ask me about AWS, Kubernetes, Terraform, CI/CD, or Python
 -   📫 How to reach me: You can connect with me via:
     -   Email: abioyepelumi363@gmail.com [cite: 15, 20]
     -   LinkedIn: [www.linkedin.com/in/abdul-lateef-abioye-500665256](www.linkedin.com/in/abdul-lateef-abioye-500665256)
 -   ⚡ Fun fact: I have experience in graphic design in addition to my tech skills.
 
-Key Skills:
+**Key Skills:**
 
 -   AWS
 -   Kubernetes
